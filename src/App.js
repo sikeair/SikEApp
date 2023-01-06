@@ -9,6 +9,7 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <View>
         <Text>나의 첫 앱 실행 완료!</Text>
+        <Text>SIKE</Text>
         </View>
       </View>
     );
